@@ -1,2 +1,3 @@
 # MyTestProject
-for test && begin
+for test && begin lalala
+like me
