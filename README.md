@@ -1,2 +1,2 @@
 # MyTestProject
-for test
+for test && begin
